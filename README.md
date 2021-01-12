@@ -227,6 +227,8 @@ APIs
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
+- [Unixtime](http://unixtime.co.za/) - Free API to convert Unixtime to DateTime and vice versa. 
+- [Form2Channel](http://form2channel.com/) - Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 
 ### Music
 
